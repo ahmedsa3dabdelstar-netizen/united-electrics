@@ -1,0 +1,197 @@
+{
+  "brand": { "name": "United Electric", "subtitle": "UNITED ELECTRIC" },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "government": "Government",
+    "contact": "Contact",
+    "quote": "Request a Quote",
+    "menu": "Menu"
+  },
+  "theme": { "light": "Light mode", "dark": "Dark mode" },
+  "lang": { "switchTo": "العربية" },
+  "home": {
+    "meta": { "title": "United Electric | Home", "desc": "Your trusted partner in electrical infrastructure projects. Since 2018, delivering major government and residential projects across Egypt." },
+    "hero": {
+      "badge": "Since 2018 · Specialized contracting",
+      "title1": "Your trusted partner in",
+      "title2": "electrical infrastructure projects",
+      "desc": "An elite team of engineers executing electrical, mechanical, and HVAC works for the largest government entities and real estate developers in Egypt — at the highest standards of quality and commitment.",
+      "ctaProjects": "View our projects",
+      "ctaContact": "Contact us"
+    },
+    "stats": {
+      "projects": "Projects delivered",
+      "years": "Years of experience",
+      "entities": "Government entities",
+      "commitment": "On-time delivery"
+    },
+    "services": {
+      "eyebrow": "Our services",
+      "title": "Integrated engineering solutions under one roof",
+      "desc": "From large-scale infrastructure to final finishing — a complete service at world-class standards.",
+      "items": {
+        "infra": { "t": "Electrical infrastructure", "d": "Distribution networks, underground cables, substations and distribution buildings." },
+        "buildings": { "t": "Government building electricals", "d": "Full electrical execution for hospitals, schools and government complexes." },
+        "mech": { "t": "Mechanical works", "d": "Complete drainage, supply, fire-fighting, and pump installations." },
+        "hvac": { "t": "HVAC systems", "d": "Supply and installation of central AC and VRF systems for large facilities." },
+        "light": { "t": "Lighting & street poles", "d": "Design and execution of lighting networks and street poles for villages and roads." },
+        "maint": { "t": "Periodic maintenance", "d": "Preventive and corrective maintenance services around the clock for critical facilities." }
+      }
+    },
+    "gallery": {
+      "eyebrow": "Work gallery",
+      "title": "Snapshots from our sites",
+      "desc": "Real photos from our projects — from switchgear rooms to street lighting and cable networks."
+    },
+    "featured": {
+      "eyebrow": "Featured projects",
+      "title": "A track record of success",
+      "all": "All projects",
+      "items": {
+        "knowledge": { "tag": "Government", "title": "Knowledge City — New Administrative Capital", "owner": "Armed Forces Engineering Authority" },
+        "village": { "tag": "Hayah Karima", "title": "Hayah Karima villages development", "owner": "Qena & Luxor governorates" },
+        "compound": { "tag": "Residential", "title": "Lian Compound — 116 villas", "owner": "Fifth Settlement" }
+      }
+    },
+    "why": {
+      "eyebrow": "Why choose us",
+      "title": "Trusted experience with major government entities",
+      "desc": "We have delivered major projects for the Armed Forces Engineering Authority, Ministry of Interior, Hayah Karima initiative, and top real estate developers such as SODIC and Misr El Mahrousa.",
+      "p1": "Engineering team with extensive project management expertise",
+      "p2": "Strict commitment to deadlines and technical specifications",
+      "p3": "Capacity to execute multiple projects simultaneously",
+      "p4": "Compliance with the latest global standards and codes",
+      "more": "About the company",
+      "workers": "Specialized workers & technicians",
+      "founded": "Company founded",
+      "governorates": "Governorates served",
+      "support": "Support & maintenance"
+    },
+    "cta": {
+      "title": "Have a project? We'd love to discuss it",
+      "desc": "Whether you are a government entity or a real estate developer — our team is ready to provide a technical and commercial proposal tailored to your needs.",
+      "btn1": "Request a quote",
+      "btn2": "For government"
+    }
+  },
+  "about": {
+    "meta": { "title": "About | United Electric", "desc": "United Electric was founded in February 2018, specializing in electrical, mechanical, and HVAC contracting under the supervision of elite engineers." },
+    "eyebrow": "About",
+    "title": "An elite engineering team executing an integrated vision",
+    "desc": "United Electric was founded in February 2018, starting as a company specialized in electrical, mechanical, and HVAC works, and has achieved remarkable growth over the past years.",
+    "intro": "About the company",
+    "intro1": "The company is overseen by an elite group of highly experienced and skilled engineers who aim to provide innovative, integrated solutions for all client needs.",
+    "intro2": "The team has a high level of competence in managing and executing projects according to the latest technologies and global standards, while maintaining the highest quality and timely delivery.",
+    "mission": { "t": "Our mission", "d": "Delivering integrated engineering solutions in electrical, mechanical, and HVAC fields at the highest standards of quality and professionalism." },
+    "vision": { "t": "Our vision", "d": "To be the first trusted partner for government entities and major corporations in electrical infrastructure projects." },
+    "values": { "t": "Our values", "d": "Quality, commitment, professional integrity, and continuous innovation in delivering technical solutions to our clients." },
+    "leadEyebrow": "Leadership",
+    "leadTitle": "Leadership with broad engineering experience",
+    "leadDesc": "The company is managed by a team of engineers with extensive experience and skills.",
+    "p1": "Eng. Walid Mohamed Abdelrahman",
+    "p2": "Eng. Sameh Mohamed Abdelsattar",
+    "role": "Co-founder"
+  },
+  "services": {
+    "meta": { "title": "Services | United Electric", "desc": "Integrated services in electricals, mechanical, HVAC, distribution networks, lighting, and maintenance for residential and government projects." },
+    "eyebrow": "Our services",
+    "title": "An integrated engineering ecosystem",
+    "desc": "We provide comprehensive solutions for electrical and mechanical infrastructure projects — from study and design through operation and maintenance.",
+    "process": {
+      "eyebrow": "Methodology",
+      "title": "From study to handover",
+      "desc": "We follow a clear methodology in every project to ensure quality and timely delivery — from initial survey and technical study to execution, testing and final commissioning.",
+      "s1": "Survey & technical study",
+      "s2": "Design & engineering calculations",
+      "s3": "Procurement & preparation",
+      "s4": "Installation & field execution",
+      "s5": "Testing & trial operation",
+      "s6": "Handover & periodic maintenance"
+    },
+    "items": {
+      "infra": { "t": "Electrical infrastructure", "p1": "MV & LV distribution networks", "p2": "Underground & overhead cables", "p3": "Substations & distribution buildings" },
+      "gov": { "t": "Government building electricals", "p1": "Hospitals & health units", "p2": "Schools & youth centers", "p3": "Administrative & security complexes" },
+      "mech": { "t": "Mechanical works", "p1": "Supply & drainage networks", "p2": "Fire-fighting systems", "p3": "Pumps & equipment rooms" },
+      "hvac": { "t": "HVAC systems", "p1": "Central chillers", "p2": "VRF & Split systems", "p3": "Ventilation & air ducts" },
+      "light": { "t": "Smart lighting", "p1": "Street & plaza lighting", "p2": "Administrative building lighting", "p3": "LED energy-saving solutions" },
+      "net": { "t": "Networks & comms", "p1": "Data & internet networks", "p2": "Surveillance & alarm systems", "p3": "Audio & paging systems" },
+      "poles": { "t": "Street poles", "p1": "Lighting network design & execution", "p2": "Street poles of all sizes", "p3": "Control & switching panels" },
+      "maint": { "t": "Periodic maintenance", "p1": "Scheduled preventive maintenance", "p2": "24/7 emergency maintenance", "p3": "Periodic technical reports" }
+    }
+  },
+  "projects": {
+    "meta": { "title": "Projects | United Electric", "desc": "Explore the key projects delivered by United Electric with the Armed Forces Engineering Authority, Ministry of Interior, Hayah Karima, and top developers." },
+    "eyebrow": "Projects",
+    "title": "A rich record of successful projects",
+    "desc": "From residential and administrative buildings to major government and institutional projects, we have delivered electrical, mechanical, and HVAC works with high precision and excellent quality.",
+    "all": "All",
+    "year": "Year:",
+    "empty": "No projects match these filters.",
+    "owner": "Owner:",
+    "consultant": "Consultant:",
+    "contractor": "Main contractor:",
+    "cat": {
+      "residential": "Residential",
+      "government": "Government",
+      "hayah": "Hayah Karima",
+      "commercial": "Commercial",
+      "security": "Security"
+    }
+  },
+  "government": {
+    "meta": { "title": "Government | United Electric", "desc": "A trusted partner for sovereign and government entities. Delivered projects for the Armed Forces Engineering Authority, Ministry of Interior, and Hayah Karima." },
+    "eyebrow": "Government sector",
+    "title": "A trusted partner for sovereign and government entities",
+    "desc": "Documented practical experience executing diverse major government projects, with full commitment to the specifications and standards approved by supervisory bodies.",
+    "s1": "Government entities served",
+    "s2": "Government projects delivered",
+    "s3": "Compliance with specs",
+    "entitiesTitle": "Entities we have worked with",
+    "entitiesDesc": "Long-term partnerships with major government bodies and real estate developers in Egypt.",
+    "whyEyebrow": "Why we are the optimal choice",
+    "whyTitle": "Capabilities that meet government tender requirements",
+    "c1": { "t": "Licenses & documents", "d": "Valid commercial registry, tax card, registration certificate, and all documents required for government tender qualification." },
+    "c2": { "t": "Technical record", "d": "Documented experience executing major projects with the Armed Forces Engineering Authority and Ministry of Interior." },
+    "c3": { "t": "Financial capacity", "d": "Financial and managerial capacity to execute multiple large contracts simultaneously without affecting quality." },
+    "c4": { "t": "Quality & safety", "d": "Commitment to approved quality standards and professional safety procedures across all work sites." },
+    "ctaTitle": "Interested in qualifying us for your tenders?",
+    "ctaDesc": "Contact our procurement and tenders team to obtain the full company file (Capability Statement) and required documents.",
+    "ctaBtn": "Contact tenders team"
+  },
+  "contact": {
+    "meta": { "title": "Contact | United Electric", "desc": "Get in touch with United Electric for inquiries and tenders." },
+    "eyebrow": "Contact us",
+    "title": "We're happy to answer your inquiries",
+    "desc": "Our team is ready to discuss your needs and provide suitable technical and commercial offers.",
+    "address": { "t": "Address", "v": "New Suez Bridge — Cairo-Ismailia Desert Road — Hadayek El Ferdous — Building 124 behind Nefertari International School" },
+    "phone": "Phone numbers",
+    "email": "Email",
+    "fb": "Facebook page",
+    "gb": "Google Business",
+    "formTitle": "Send your inquiry",
+    "formDesc": "We'll respond within 24 hours of receiving your message.",
+    "sent": "✓ Your message was received successfully. We'll be in touch soon.",
+    "name": "Full name",
+    "phoneLabel": "Phone number",
+    "emailLabel": "Email address",
+    "type": "Inquiry type",
+    "types": { "bid": "Tender", "tech": "Technical inquiry", "job": "Employment", "other": "Other" },
+    "message": "Your message",
+    "send": "Send message",
+    "errName": "Name is required",
+    "errEmail": "Invalid email address",
+    "errPhone": "Invalid phone number",
+    "errMsg": "Message is too short"
+  },
+  "footer": {
+    "tag": "A company specialized in electrical, mechanical, and HVAC contracting. Founded in 2018 with a strong record of major residential and government projects.",
+    "links": "Quick links",
+    "contact": "Contact",
+    "fb": "Facebook page",
+    "rights": "All rights reserved."
+  },
+  "notFound": { "title": "Page not found", "desc": "The page you're looking for is unavailable or has been moved.", "btn": "Back to home" }
+}
